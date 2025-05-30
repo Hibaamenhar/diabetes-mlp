@@ -62,6 +62,6 @@ A LaTeX report is included (`diabetes_article.tex`) and can be compiled with Ove
 Project repository: [https://github.com/Hibaamenhar/diabetes-mlp](https://github.com/Hibaamenhar/diabetes-mlp)
 
 ## 👤 Author
-
+Hiba Amenhar
 Master Student – IAA  
 Academic Year 2024–2025
