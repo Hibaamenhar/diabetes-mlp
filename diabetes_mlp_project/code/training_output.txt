@@ -1,0 +1,21 @@
+
+Epoch 0, Loss: 0.6889
+Epoch 10, Loss: 0.6625
+Epoch 20, Loss: 0.6517
+Epoch 30, Loss: 0.6468
+Epoch 40, Loss: 0.6435
+Epoch 50, Loss: 0.6404
+Epoch 60, Loss: 0.6359
+Epoch 70, Loss: 0.6288
+Epoch 80, Loss: 0.6167
+Epoch 90, Loss: 0.5969
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      1.00      0.79       100
+           1       0.00      0.00      0.00        54
+
+    accuracy                           0.65       154
+   macro avg       0.32      0.50      0.39       154
+weighted avg       0.42      0.65      0.51       154
